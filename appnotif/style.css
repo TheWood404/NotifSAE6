@@ -1,24 +1,20 @@
-/* Style général */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
-/* Conteneur principal */
 .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
 
-/* Titre */
 h1 {
     color: #333;
     text-align: center;
 }
 
-/* Notification */
 #notification {
     background-color: #f0f0f0;
     border: 1px solid #ccc;
